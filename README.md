@@ -10,7 +10,7 @@ My focus is on **real-world automation**, clean code, and scripts that can be us
 - 🔁 Automate repetitive tasks & workflows  
 - 📂 File & folder automation  
 - 🌐 Web automation & scraping  
-- 📊 Data cleaning & manipulation  
+- 📊 Data cleaning & manipulation   
 - 🧪 Script optimization & testing  
 - 🔧 Small automation tools for daily use  
 
@@ -39,29 +39,6 @@ My focus is on **real-world automation**, clean code, and scripts that can be us
 - 🔁 **Batch Automation Tool**  
   Runs repetitive tasks with logging and error handling.
 
----
 
-## 🧠 Current Focus
-- Advanced automation workflows  
-- Writing reusable & scalable scripts  
-- Preparing automation projects for freelance platforms  
-- Improving documentation & project structure  
-
----
-
-## 📌 Work Principles
-- Clean & readable code  
-- Real use-cases (not toy projects)  
-- Clear instructions & README  
-- Easy customization & reuse  
-
----
-
-## 📫 Contact
-- 💼 Open to freelance automation work  
-- 🤝 Open to collaboration  
-- ⭐ Feel free to star or fork any project  
-
----
 
 > *Automation is not about replacing humans — it's about freeing them.*
