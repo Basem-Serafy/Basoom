@@ -4,7 +4,7 @@
 I specialize in building **practical Python automation scripts** that save time, reduce manual work, and simplify repetitive tasks.  
 My focus is on **real-world automation**, clean code, and scripts that can be used directly in freelance and business environments.
 
----
+--- 
 
 ## 🚀 What I Do
 - 🔁 Automate repetitive tasks & workflows  
